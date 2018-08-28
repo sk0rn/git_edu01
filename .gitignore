@@ -1,0 +1,14 @@
+#idea files
+.idea/
+*.iml
+ 
+#maven files
+target/
+pom.xml
+
+#temp
+docs/*.xml
+
+#git_theory
+git-cmd.txt
+
