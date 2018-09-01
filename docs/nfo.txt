@@ -9,4 +9,5 @@ hi new branch
 edit branch master
 
 new data
+master edit
 new_f edit
